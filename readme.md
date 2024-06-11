@@ -1,1 +1,1 @@
-# This will be clone for landing page of AirBnB 
+# This will be clone for landing page of AirBnb landing page
